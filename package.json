@@ -2,7 +2,7 @@
   "name": "favicon-get",
   "version": "0.0.1",
   "description": "> get the favicons url from any website",
-  "main": "index.js",
+  "main": "lib/index.js",
   "directories": {
     "lib": "lib",
     "test": "test"
