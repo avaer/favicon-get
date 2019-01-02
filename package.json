@@ -1,0 +1,25 @@
+{
+  "name": "favicon-get",
+  "version": "0.0.1",
+  "description": "> get the favicons url from any website",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modulesio/favicon-get.git"
+  },
+  "author": "Avaer Kazmer <a@modules.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/modulesio/favicon-get/issues"
+  },
+  "homepage": "https://github.com/modulesio/favicon-get#readme"
+}
